@@ -59,7 +59,7 @@
         <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
       </blueprintGraphicData>
       <canPlaceOverWall>true</canPlaceOverWall>
-      <isEdifice>true</isEdifice>
+      <isEdifice>false</isEdifice>
       <canPlaceOverImpassablePlant>true</canPlaceOverImpassablePlant>
     </building>
     <damageMultipliers>
